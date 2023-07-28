@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 60,
+    "errorCount" : 15,
+    "errorPct" : 25.0,
+    "meanResTime" : 1438.7166666666662,
+    "medianResTime" : 1368.5,
+    "minResTime" : 1350.0,
+    "maxResTime" : 1672.0,
+    "pct1ResTime" : 1662.8,
+    "pct2ResTime" : 1667.0,
+    "pct3ResTime" : 1672.0,
+    "throughput" : 7.0846617074034715,
+    "receivedKBytesPerSec" : 3.542330853701736,
+    "sentKBytesPerSec" : 2.479631597591215
+  },
+  "GET Remote File" : {
+    "transaction" : "GET Remote File",
+    "sampleCount" : 30,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1365.4333333333332,
+    "medianResTime" : 1365.5,
+    "minResTime" : 1350.0,
+    "maxResTime" : 1396.0,
+    "pct1ResTime" : 1379.0,
+    "pct2ResTime" : 1387.2,
+    "pct3ResTime" : 1396.0,
+    "throughput" : 5.8765915768854065,
+    "receivedKBytesPerSec" : 5.876591576885406,
+    "sentKBytesPerSec" : 0.0
+  },
+  "PUT Local File" : {
+    "transaction" : "PUT Local File",
+    "sampleCount" : 30,
+    "errorCount" : 15,
+    "errorPct" : 50.0,
+    "meanResTime" : 1512.0,
+    "medianResTime" : 1511.5,
+    "minResTime" : 1351.0,
+    "maxResTime" : 1672.0,
+    "pct1ResTime" : 1667.0,
+    "pct2ResTime" : 1672.0,
+    "pct3ResTime" : 1672.0,
+    "throughput" : 4.656938838869917,
+    "receivedKBytesPerSec" : 0.0,
+    "sentKBytesPerSec" : 3.259857187208941
+  }
+}
